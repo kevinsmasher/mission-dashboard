@@ -23,3 +23,5 @@ describe('CrewComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+
+let crew: string[] = ["Jessica Watkins", "Raja Chari", "Jasmin Moghbeli"];
